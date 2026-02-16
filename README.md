@@ -46,7 +46,7 @@ A collection of awesome things regarding the React ecosystem.
 #### React Tutorials
 
 - [React Official Tutorial](https://react.dev/learn)
-- [Using React in Visual Studio Code](https://code.visualstudio.com/docs/nodejs/reactjs-tutorial)
+- [Using React in Visual Studio Code](https://code.visualstudio.com/docs/nodejs/reactjs-tutorial) ✅
 - [React Interview Questions & Answers](https://github.com/sudheerj/reactjs-interview-questions)
 - [Design patterns and Component patterns for building powerful Web Apps](https://www.patterns.dev/)
 - [A simple, scalable, and powerful architecture for building production ready React applications](https://github.com/alan2207/bulletproof-react)
