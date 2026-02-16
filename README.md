@@ -39,7 +39,7 @@ A collection of awesome things regarding the React ecosystem.
 - [React Official Website](https://react.dev/)
 - [React GitHub](https://github.com/facebook/react)
 - [Reactiflux Discord Channel](http://www.reactiflux.com/)
-- [React Community](https://react.dev/community)
+- [React Community](https://react.dev/community) ✅
 - [React Conferences](https://react.dev/community/conferences)
 - [React CodeSandbox Playground](https://codesandbox.io/s/new)
 
