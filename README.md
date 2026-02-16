@@ -40,8 +40,8 @@ A collection of awesome things regarding the React ecosystem.
 - [React GitHub](https://github.com/facebook/react)
 - [Reactiflux Discord Channel](http://www.reactiflux.com/)
 - [React Community](https://react.dev/community) ✅
-- [React Conferences](https://react.dev/community/conferences)
-- [React CodeSandbox Playground](https://codesandbox.io/s/new)
+- [React Conferences](https://react.dev/community/conferences) ✅
+- [React CodeSandbox Playground](https://codesandbox.io/s/new) ✅
 
 #### React Tutorials
 
